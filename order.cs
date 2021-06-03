@@ -10,5 +10,6 @@ namespace order1
     {
         int a;
         public string productname;
+        public string productdesp
     }
 }
